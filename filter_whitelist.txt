@@ -705,6 +705,7 @@
 @@||history.paypal.com^$important
 @@||hitnews.com^$important
 @@||hk.pool.ntp.org^$important
+@@||homebrew.bintray.com^$important
 @@||home.hulu.com^$important
 @@||home.pl^$important
 @@||home.playstation.com^$important
